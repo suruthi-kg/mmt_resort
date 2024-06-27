@@ -26,7 +26,7 @@ function Home() {
                             <div class="one" >
                             <h1>MMT Resorts</h1>
                             <h5 class="mb-4 bantxt">Book your dream getaway and enjoy the best moments with spacious rooms, relaxing amenities, and unforgettable experiences.</h5>
-                            </div> 
+                            </div>
                              {/* <div class="two" >
                                 <h1>MMT Resorts</h1>
                                 <h5 class="mb-4">Book your dream getaway and enjoy the best moments with spacious rooms, relaxing amenities, and unforgettable experiences.</h5>
